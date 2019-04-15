@@ -1,0 +1,92 @@
+Beginning 10000 Trial on 2 elements for Sort And Search   . . .  Δ : 0.0222,  μ : 0.000002 ± 0.000001 
+Beginning 10000 Trial on 2 elements for Prune And Search  . . .  Δ : 0.0548,  μ : 0.000005 ± 0.000002 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 4 elements for Sort And Search   . . .  Δ : 0.0222,  μ : 0.000002 ± 0.000001 
+Beginning 10000 Trial on 4 elements for Prune And Search  . . .  Δ : 0.0832,  μ : 0.000008 ± 0.000003 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 8 elements for Sort And Search   . . .  Δ : 0.0225,  μ : 0.000002 ± 0.000001 
+Beginning 10000 Trial on 8 elements for Prune And Search  . . .  Δ : 0.2194,  μ : 0.000022 ± 0.000005 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 16 elements for Sort And Search   . . .  Δ : 0.0242,  μ : 0.000002 ± 0.000001 
+Beginning 10000 Trial on 16 elements for Prune And Search  . . .  Δ : 0.4559,  μ : 0.000046 ± 0.000009 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 32 elements for Sort And Search   . . .  Δ : 0.0275,  μ : 0.000003 ± 0.000001 
+Beginning 10000 Trial on 32 elements for Prune And Search  . . .  Δ : 0.8514,  μ : 0.000085 ± 0.000020 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 64 elements for Sort And Search   . . .  Δ : 0.0369,  μ : 0.000004 ± 0.000002 
+Beginning 10000 Trial on 64 elements for Prune And Search  . . .  Δ : 1.7102,  μ : 0.000171 ± 0.000043 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 128 elements for Sort And Search   . . .  Δ : 0.0614,  μ : 0.000006 ± 0.000003 
+Beginning 10000 Trial on 128 elements for Prune And Search  . . .  Δ : 3.6292,  μ : 0.000363 ± 0.000088 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 256 elements for Sort And Search   . . .  Δ : 0.0991,  μ : 0.000010 ± 0.000003 
+Beginning 10000 Trial on 256 elements for Prune And Search  . . .  Δ : 6.7018,  μ : 0.000670 ± 0.000118 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 512 elements for Sort And Search   . . .  Δ : 0.1900,  μ : 0.000019 ± 0.000005 
+Beginning 10000 Trial on 512 elements for Prune And Search  . . .  Δ : 12.7553,  μ : 0.001276 ± 0.000213 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 1024 elements for Sort And Search   . . .  Δ : 0.3631,  μ : 0.000036 ± 0.000007 
+Beginning 10000 Trial on 1024 elements for Prune And Search  . . .  Δ : 24.7008,  μ : 0.002470 ± 0.000257 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 2048 elements for Sort And Search   . . .  Δ : 0.7462,  μ : 0.000075 ± 0.000007 
+Beginning 10000 Trial on 2048 elements for Prune And Search  . . .  Δ : 48.9115,  μ : 0.004891 ± 0.000502 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 4096 elements for Sort And Search   . . .  Δ : 1.6338,  μ : 0.000163 ± 0.000021 
+Beginning 10000 Trial on 4096 elements for Prune And Search  . . .  Δ : 96.9698,  μ : 0.009697 ± 0.000845 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 8192 elements for Sort And Search   . . .  Δ : 3.4349,  μ : 0.000343 ± 0.000034 
+Beginning 10000 Trial on 8192 elements for Prune And Search  . . .  Δ : 196.4330,  μ : 0.019643 ± 0.002092 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 16384 elements for Sort And Search   . . .  Δ : 7.5512,  μ : 0.000755 ± 0.000084 
+Beginning 10000 Trial on 16384 elements for Prune And Search  . . .  Δ : 397.6853,  μ : 0.039769 ± 0.003206 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 32768 elements for Sort And Search   . . .  Δ : 15.9671,  μ : 0.001597 ± 0.000145 
+Beginning 10000 Trial on 32768 elements for Prune And Search  . . .  Δ : 758.0023,  μ : 0.075800 ± 0.004693 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 65536 elements for Sort And Search   . . .  Δ : 32.6296,  μ : 0.003263 ± 0.000235 
+Beginning 10000 Trial on 65536 elements for Prune And Search  . . .  Δ : 1544.8441,  μ : 0.154484 ± 0.009137 
+
+Did the Algorithms find the same solutions? ==> True
+
+Beginning 10000 Trial on 131072 elements for Sort And Search   . . .  Δ : 67.5480,  μ : 0.006755 ± 0.000453 
+Beginning 10000 Trial on 262144 elements for Sort And Search   . . .  Δ : 143.9982,  μ : 0.014400 ± 0.000471 
+Beginning 10000 Trial on 524288 elements for Sort And Search   . . .  Δ : 288.8280,  μ : 0.028883 ± 0.000855 
+Beginning 10000 Trial on 1048576 elements for Sort And Search   . . .  Δ : 580.9292,  μ : 0.058093 ± 0.001712 
+Beginning 10000 Trial on 2097152 elements for Sort And Search   . . .  Δ : 1152.8288,  μ : 0.115283 ± 0.001847 
+Beginning 10000 Trial on 4194304 elements for Sort And Search   . . .  Δ : 2306.3059,  μ : 0.230631 ± 0.004215 
+
+Beginning 100 Trial on 8388608 elements for Sort And Search   . . .  Δ : 44.9646,  μ : 0.449646 ± 0.010805 
+Beginning 100 Trial on 16777216 elements for Sort And Search   . . .  Δ : 89.2595,  μ : 0.892595 ± 0.019984
+Beginning 100 Trial on 33554432 elements for Sort And Search   . . .  Δ : 178.9482,  μ : 1.789482 ± 0.055778 
+Beginning 100 Trial on 67108864 elements for Sort And Search   . . .  Δ : 355.4875,  μ : 3.554875 ± 0.088191 
+Beginning 100 Trial on 134217728 elements for Sort And Search   . . .  Δ : 706.4915,  μ : 7.064915 ± 0.176873
